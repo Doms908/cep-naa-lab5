@@ -1,0 +1,76 @@
+
+Host Name:                     DOMINICS-PC
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              dominicadouglas@hotmail.com
+Registered Organization:       N/A
+Product ID:                    00330-80000-00000-AA444
+Original Install Date:         2024-10-18, 12:46:55 PM
+System Boot Time:              2025-10-03, 8:59:31 PM
+System Manufacturer:           ASUSTeK COMPUTER INC.
+System Model:                  Vivobook_ASUSLaptop X1504ZA_X1504ZA
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 154 Stepping 4 GenuineIntel ~1300 Mhz
+BIOS Version:                  American Megatrends International, LLC. X1504ZA.314, 2024-09-10
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:         24,269 MB
+Available Physical Memory:     12,152 MB
+Virtual Memory: Max Size:      48,845 MB
+Virtual Memory: Available:     34,942 MB
+Virtual Memory: In Use:        13,903 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\DOMINICS-PC
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5064401
+                               [02]: KB5065789
+                               [03]: KB5067437
+Network Card(s):               5 NIC(s) Installed.
+                               [01]: Intel(R) Wireless-AC 9462
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.2.1
+                                     IP address(es)
+                                     [01]: 192.168.2.18
+                               [02]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+                               [03]: WireGuard Tunnel
+                                     Connection Name: NordLynx
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 10.5.0.2
+                                     [02]: fe80::a12e:417f:c5c6:ccfa
+                               [04]: TAP-NordVPN Windows Adapter V9
+                                     Connection Name: Local Area Connection
+                                     Status:          Media disconnected
+                               [05]: OpenVPN Data Channel Offload
+                                     Connection Name: OpenVPN Data Channel Offload for NordVPN
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+domin
