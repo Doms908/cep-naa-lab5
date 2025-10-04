@@ -1,0 +1,1 @@
+# Bruschetta Recipe\n\nIngredients:\n- Tomatoes\n- Basil\n- Olive oil\n- Garlic\n- Baguette slices\n\nInstructions:\n1. Dice tomatoes and mix with basil and oil\n2. Toast baguette\n3. Rub garlic and top with tomato mix\n\nSource: https://simplyrecipes.com/bruschetta
